@@ -6,41 +6,41 @@ React • Next.js • MongoDB • Node.js • SQL
 
 ---
 
-## 📌 Professional Self-Assessment
+##  Professional Self-Assessment
 
 As a Computer Science student at Southern New Hampshire University, my growth has gone far beyond just learning syntax or getting code to run. Over time I have developed the ability to think more like an engineer instead of just a programmer. This ePortfolio reflects that shift. It shows how I design systems that are maintainable, analyze performance intentionally, structure databases with purpose, and approach development with a security first mindset.
 
 When I first started, my mindset was simple. I wanted to make things work. If the feature functioned, I felt successful. Through coursework, full stack projects, and especially this capstone, I learned that professional development is about building systems that scale, evolve, and make sense to other developers. Clean architecture, separation of concerns, and thoughtful technical decisions matter just as much as working code. The artifacts in this portfolio show that transition clearly, from functional solutions to engineered systems.
 
-### 🤝 Collaborating in Team Environments
+### Collaborating in Team Environments
 
 One of the biggest lessons I have learned is that software is never built alone. Between academic team projects and real world work using React, Next.js, and SQL, I have seen how important communication and version control are. Git and GitHub are not just tools I use. They are part of how I think about collaboration. Clear commit messages, structured branches, and readable pull requests keep teams aligned and prevent confusion. As someone working toward becoming a stronger full stack engineer, I focus on writing code that other developers can understand and build on.
 
-### 💬 Communicating with Stakeholders
+###  Communicating with Stakeholders
 
 Strong communication also means explaining technical ideas in a way that connects to business value. Throughout this capstone, I practiced breaking down concepts like time complexity, indexing strategies, and service layer architecture into language that makes sense to non technical stakeholders. Instead of focusing only on implementation details, I explain what those decisions accomplish for the business, such as improving performance, enabling analytics, or reducing long term maintenance costs.
 
-### 🧮 Data Structures and Algorithms
+###  Data Structures and Algorithms
 
 My growth in data structures and algorithms is another area that stands out. Earlier in my program I understood algorithms at a surface level. Now I think more critically about scalability and tradeoffs. Implementing search, filter, and sorting functionality with documented time complexity forced me to consider how systems behave as data grows. I learned to evaluate performance, justify my choices, and understand how data structures impact efficiency.
 
-### 💻 Software Engineering and Databases
+###  Software Engineering and Databases
 
 Across software engineering, algorithms, and database enhancements, this portfolio demonstrates how I approach systems as a whole. I refactored tightly coupled components into cleaner architectures with clear separation of concerns and centralized error handling. I implemented structured data models and layered logic to support flexible user functionality. I optimized database performance through indexing and enforced data integrity through schema validation.
 
-### 🔒 Security Mindset
+###  Security Mindset
 
 Security has also become a consistent priority in my development process. I implemented validation at multiple layers to prevent malformed data and protect system integrity. By validating on the frontend, within the API, and at the database schema level, I applied a defense in depth approach that reduces risk and strengthens reliability.
 
-### 🎯 Professional Goals
+###  Professional Goals
 
 Completing this capstone has reinforced my direction as a developer. I am not focused on simply knowing frameworks. I am focused on understanding architecture, performance, scalability, and long term maintainability. As I continue working with modern stacks such as MERN and Next.js, I aim to deepen my backend knowledge while continuing to strengthen frontend expertise.
 
 ---
 
-## 🎥 Code Review
+##  Code Review
 
-**[Watch Code Review Video](YOUR_YOUTUBE_LINK_HERE)**
+**[Watch Code Review Video]()**
 
 In this code review, I walk through the original pizza ordering application, identify areas for improvement in software design, algorithms, and database structure, and outline my enhancement plan across all three categories.
 
@@ -52,7 +52,7 @@ In this code review, I walk through the original pizza ordering application, ide
 
 ---
 
-## 📂 Project Artifacts
+## Project Artifacts
 
 ### Enhancement One: Software Design & Engineering
 
@@ -160,7 +160,7 @@ Improvement:      ~100x faster on 10,000+ records
 
 ---
 
-## 🔗 Links & Resources
+##  Links & Resources
 
 - **GitHub Repository**: [pizza-app](https://github.com/carternadain/pizza-app)
 - **LinkedIn**: [Carter Nadain](https://www.linkedin.com/in/carternadain)
@@ -168,7 +168,7 @@ Improvement:      ~100x faster on 10,000+ records
 
 ---
 
-## 📊 Technologies Used
+##  Technologies Used
 
 **Frontend:**
 - React 18
@@ -195,21 +195,21 @@ Improvement:      ~100x faster on 10,000+ records
 
 ---
 
-## 📝 Course Outcomes Achieved
+##  Course Outcomes Achieved
 
-✅ **Collaborative Environments**: Demonstrated through clear documentation, version control practices, and code designed for team maintainability
+ **Collaborative Environments**: Demonstrated through clear documentation, version control practices, and code designed for team maintainability
 
-✅ **Professional Communication**: Developed technical narratives explaining design decisions, tradeoffs, and business value
+ **Professional Communication**: Developed technical narratives explaining design decisions, tradeoffs, and business value
 
-✅ **Algorithmic Principles**: Implemented and analyzed search, filter, and sort algorithms with documented time complexity
+ **Algorithmic Principles**: Implemented and analyzed search, filter, and sort algorithms with documented time complexity
 
-✅ **Software Engineering**: Applied service layer architecture, component design patterns, and error handling strategies
+ **Software Engineering**: Applied service layer architecture, component design patterns, and error handling strategies
 
-✅ **Security Mindset**: Implemented multi-layer validation, schema enforcement, and defensive programming practices
+ **Security Mindset**: Implemented multi-layer validation, schema enforcement, and defensive programming practices
 
 ---
 
-## 🎓 Academic Journey
+##  Academic Journey
 
 This ePortfolio represents the culmination of my Computer Science degree at Southern New Hampshire University. Through this capstone project, I transformed a basic CRUD application into a professionally-engineered system demonstrating:
 
@@ -223,13 +223,13 @@ The progression from Enhancement One through Enhancement Three shows my growth f
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Carter Nadain**  
 Computer Science Graduate | Full-Stack Developer  
-📧 carter.nadain@snhu.edu  
-💼 [LinkedIn](https://www.linkedin.com/in/carternadain)  
-💻 [GitHub](https://github.com/carternadain)
+ carter.nadain@snhu.edu  
+[LinkedIn](https://www.linkedin.com/in/carternadain)  
+ [GitHub](https://github.com/carternadain)
 
 ---
 
